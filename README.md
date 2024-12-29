@@ -12,6 +12,6 @@ This project uses LSTM to predict stock prices for the next day based on histori
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/stock-price-
+   git clone https://github.com/amka-e/stock-price-prediction
    pip install -r requirements.txt
    python main.py
